@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "time": 1780113600.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 4038450,
+            "ai_output_tokens": 196614,
+            "duration": 2900.764555,
+            "ai_additions": 152,
+            "ai_agent_line_changes": {
+                "Claude": 152
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {
+                "Claude": 0.094877
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 308,
+            "ai_prompt_events_total": 5,
+            "ai_prompt_length_avg": 62,
+            "ai_prompt_events_avg_per_session": 5,
+            "ai_prompt_events_median_per_session": 5,
+            "ai_prompt_length_avg_per_session": 62,
+            "ai_prompt_length_median_per_session": 62,
+            "color": null
+        },
+        {
+            "time": 1780117515.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 3813516,
+            "ai_output_tokens": 181922,
+            "duration": 1800.671029,
+            "ai_additions": 88,
+            "ai_agent_line_changes": {
+                "Claude": 88
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {
+                "Claude": 0.063807
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 1411,
+            "ai_prompt_events_total": 2,
+            "ai_prompt_length_avg": 706,
+            "ai_prompt_events_avg_per_session": 2,
+            "ai_prompt_events_median_per_session": 2,
+            "ai_prompt_length_avg_per_session": 706,
+            "ai_prompt_length_median_per_session": 706,
+            "color": null
+        }
+    ],
+    "start": "2026-05-30T04:00:00Z",
+    "end": "2026-05-31T03:59:59Z",
+    "timezone": "America/New_York"
+}
