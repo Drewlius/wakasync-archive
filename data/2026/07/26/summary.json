@@ -1,0 +1,648 @@
+{
+    "data": [
+        {
+            "grand_total": {
+                "hours": 13,
+                "minutes": 48,
+                "total_seconds": 49717.026,
+                "digital": "13:48",
+                "decimal": "13.80",
+                "text": "13 hrs 48 mins",
+                "ai_additions": 1180,
+                "ai_deletions": 10,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {
+                    "Glm": 973
+                },
+                "ai_input_tokens": 2801037,
+                "ai_output_tokens": 185951,
+                "ai_prompt_length_sum": 344091,
+                "ai_prompt_events_total": 73,
+                "ai_sessions": 9,
+                "ai_model_costs": {
+                    "Glm": 6.63468,
+                    "GPT": 0.856985
+                },
+                "ai_model_breakdown": [
+                    {
+                        "name": "Glm",
+                        "lines": 973,
+                        "cost": 6.63468
+                    },
+                    {
+                        "name": "GPT",
+                        "lines": 0,
+                        "cost": 0.856985
+                    }
+                ],
+                "ai_model_total_cost": 7.491665,
+                "ai_prompt_length_avg": 4714,
+                "ai_prompt_events_avg_per_session": 8,
+                "ai_prompt_events_median_per_session": 2,
+                "ai_prompt_length_avg_per_session": 12230,
+                "ai_prompt_length_median_per_session": 16002
+            },
+            "range": {
+                "start": "2026-07-26T00:00:00Z",
+                "end": "2026-07-26T23:59:59Z",
+                "date": "2026-07-26",
+                "text": "Sun Jul 26th 2026",
+                "timezone": "UTC"
+            },
+            "projects": [
+                {
+                    "name": "Unknown Project",
+                    "total_seconds": 41610.911843,
+                    "ai_additions": 274,
+                    "ai_deletions": 2,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Glm": 63
+                    },
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "color": null,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Glm",
+                            "lines": 63,
+                            "cost": 0.0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 1,
+                    "digital": "11:33:30",
+                    "decimal": "11.55",
+                    "text": "11 hrs 33 mins",
+                    "hours": 11,
+                    "minutes": 33,
+                    "seconds": 30,
+                    "percent": 83.7
+                },
+                {
+                    "name": "slippy",
+                    "total_seconds": 4023.974744,
+                    "ai_additions": 0,
+                    "ai_deletions": 4,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 319879,
+                    "ai_output_tokens": 43936,
+                    "ai_prompt_length_sum": 190078,
+                    "ai_prompt_events_total": 29,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Glm": 1.447767
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Glm",
+                            "lines": 0,
+                            "cost": 1.447767
+                        }
+                    ],
+                    "ai_model_total_cost": 1.447767,
+                    "ai_prompt_length_avg": 6554,
+                    "ai_prompt_length_avg_per_session": 13483,
+                    "ai_prompt_length_median_per_session": 16002,
+                    "ai_prompt_events_avg_per_session": 5,
+                    "ai_prompt_events_median_per_session": 2,
+                    "ai_sessions": 6,
+                    "digital": "1:07:03",
+                    "decimal": "1.12",
+                    "text": "1 hr 7 mins",
+                    "hours": 1,
+                    "minutes": 7,
+                    "seconds": 3,
+                    "percent": 8.09
+                },
+                {
+                    "name": "fcc-python-practice-exam",
+                    "total_seconds": 2555.764287,
+                    "ai_additions": 439,
+                    "ai_deletions": 4,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Glm": 443
+                    },
+                    "ai_input_tokens": 1813988,
+                    "ai_output_tokens": 83242,
+                    "ai_prompt_length_sum": 78840,
+                    "ai_prompt_events_total": 20,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Glm": 4.358121,
+                        "GPT": 0.856985
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Glm",
+                            "lines": 443,
+                            "cost": 4.358121
+                        },
+                        {
+                            "name": "GPT",
+                            "lines": 0,
+                            "cost": 0.856985
+                        }
+                    ],
+                    "ai_model_total_cost": 5.215106,
+                    "ai_prompt_length_avg": 3942,
+                    "ai_prompt_length_avg_per_session": 7017,
+                    "ai_prompt_length_median_per_session": 7017,
+                    "ai_prompt_events_avg_per_session": 10,
+                    "ai_prompt_events_median_per_session": 10,
+                    "ai_sessions": 2,
+                    "digital": "0:42:35",
+                    "decimal": "0.70",
+                    "text": "42 mins",
+                    "hours": 0,
+                    "minutes": 42,
+                    "seconds": 35,
+                    "percent": 5.14
+                },
+                {
+                    "name": "Obsidian",
+                    "total_seconds": 1028.085126,
+                    "ai_additions": 467,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Glm": 467
+                    },
+                    "ai_input_tokens": 624784,
+                    "ai_output_tokens": 55635,
+                    "ai_prompt_length_sum": 14557,
+                    "ai_prompt_events_total": 20,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Glm": 0.741678
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Glm",
+                            "lines": 467,
+                            "cost": 0.741678
+                        }
+                    ],
+                    "ai_model_total_cost": 0.741678,
+                    "ai_prompt_length_avg": 728,
+                    "ai_prompt_length_avg_per_session": 728,
+                    "ai_prompt_length_median_per_session": 728,
+                    "ai_prompt_events_avg_per_session": 20,
+                    "ai_prompt_events_median_per_session": 20,
+                    "ai_sessions": 1,
+                    "digital": "0:17:08",
+                    "decimal": "0.28",
+                    "text": "17 mins",
+                    "hours": 0,
+                    "minutes": 17,
+                    "seconds": 8,
+                    "percent": 2.07
+                },
+                {
+                    "name": "new-api",
+                    "total_seconds": 498.29,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 42386,
+                    "ai_output_tokens": 3138,
+                    "ai_prompt_length_sum": 60616,
+                    "ai_prompt_events_total": 4,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Glm": 0.087114
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Glm",
+                            "lines": 0,
+                            "cost": 0.087114
+                        }
+                    ],
+                    "ai_model_total_cost": 0.087114,
+                    "ai_prompt_length_avg": 15154,
+                    "ai_prompt_length_avg_per_session": 15154,
+                    "ai_prompt_length_median_per_session": 15154,
+                    "ai_prompt_events_avg_per_session": 4,
+                    "ai_prompt_events_median_per_session": 4,
+                    "ai_sessions": 1,
+                    "digital": "0:08:18",
+                    "decimal": "0.13",
+                    "text": "8 mins",
+                    "hours": 0,
+                    "minutes": 8,
+                    "seconds": 18,
+                    "percent": 1.0
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Other",
+                    "total_seconds": 42296.453082,
+                    "digital": "11:44:56",
+                    "decimal": "11.73",
+                    "text": "11 hrs 44 mins",
+                    "hours": 11,
+                    "minutes": 44,
+                    "seconds": 56,
+                    "percent": 85.07
+                },
+                {
+                    "name": "JavaScript",
+                    "total_seconds": 3737.749515,
+                    "digital": "1:02:17",
+                    "decimal": "1.03",
+                    "text": "1 hr 2 mins",
+                    "hours": 1,
+                    "minutes": 2,
+                    "seconds": 17,
+                    "percent": 7.52
+                },
+                {
+                    "name": "Markdown",
+                    "total_seconds": 1547.713054,
+                    "digital": "0:25:47",
+                    "decimal": "0.42",
+                    "text": "25 mins",
+                    "hours": 0,
+                    "minutes": 25,
+                    "seconds": 47,
+                    "percent": 3.11
+                },
+                {
+                    "name": "Normal",
+                    "total_seconds": 659.170416,
+                    "digital": "0:10:59",
+                    "decimal": "0.17",
+                    "text": "10 mins",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 59,
+                    "percent": 1.33
+                },
+                {
+                    "name": "JSONC",
+                    "total_seconds": 657.18113,
+                    "digital": "0:10:57",
+                    "decimal": "0.17",
+                    "text": "10 mins",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 57,
+                    "percent": 1.32
+                },
+                {
+                    "name": "JSON",
+                    "total_seconds": 599.911,
+                    "digital": "0:09:59",
+                    "decimal": "0.15",
+                    "text": "9 mins",
+                    "hours": 0,
+                    "minutes": 9,
+                    "seconds": 59,
+                    "percent": 1.21
+                },
+                {
+                    "name": "CSS",
+                    "total_seconds": 205.686007,
+                    "digital": "0:03:25",
+                    "decimal": "0.05",
+                    "text": "3 mins",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 25,
+                    "percent": 0.41
+                },
+                {
+                    "name": "HTML",
+                    "total_seconds": 13.152575,
+                    "digital": "0:00:13",
+                    "decimal": "0.00",
+                    "text": "13 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "percent": 0.03
+                },
+                {
+                    "name": "Text",
+                    "total_seconds": 0.009221,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "systemd unit",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                }
+            ],
+            "dependencies": [],
+            "machines": [
+                {
+                    "name": "Unknown Hostname",
+                    "total_seconds": 38915.546338,
+                    "machine_name_id": null,
+                    "digital": "10:48:35",
+                    "decimal": "10.80",
+                    "text": "10 hrs 48 mins",
+                    "hours": 10,
+                    "minutes": 48,
+                    "seconds": 35,
+                    "percent": 78.27
+                },
+                {
+                    "name": "Mokka",
+                    "total_seconds": 10801.479662,
+                    "machine_name_id": "de2d60d7-d0f7-4940-add8-22f8c3ff56a4",
+                    "digital": "3:00:01",
+                    "decimal": "3.00",
+                    "text": "3 hrs",
+                    "hours": 3,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 21.73
+                }
+            ],
+            "editors": [
+                {
+                    "name": "Histre",
+                    "total_seconds": 38915.546338,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [],
+                    "ai_model_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "10:48:35",
+                    "decimal": "10.80",
+                    "text": "10 hrs 48 mins",
+                    "hours": 10,
+                    "minutes": 48,
+                    "seconds": 35,
+                    "percent": 78.27
+                },
+                {
+                    "name": "OpenCode",
+                    "total_seconds": 7731.124863,
+                    "ai_additions": 1180,
+                    "ai_deletions": 10,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Glm": 973
+                    },
+                    "ai_input_tokens": 2698964,
+                    "ai_output_tokens": 174397,
+                    "ai_prompt_length_sum": 344091,
+                    "ai_prompt_events_total": 73,
+                    "ai_model_costs": {
+                        "Glm": 6.63468
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Glm",
+                            "lines": 973,
+                            "cost": 6.63468
+                        }
+                    ],
+                    "ai_model_total_cost": 6.63468,
+                    "ai_prompt_length_avg": 4714,
+                    "ai_prompt_length_avg_per_session": 12230,
+                    "ai_prompt_length_median_per_session": 16002,
+                    "ai_prompt_events_avg_per_session": 8,
+                    "ai_prompt_events_median_per_session": 2,
+                    "ai_sessions": 9,
+                    "digital": "2:08:51",
+                    "decimal": "2.13",
+                    "text": "2 hrs 8 mins",
+                    "hours": 2,
+                    "minutes": 8,
+                    "seconds": 51,
+                    "percent": 15.55
+                },
+                {
+                    "name": "Ktexteditor",
+                    "total_seconds": 1680.953799,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [],
+                    "ai_model_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "0:28:00",
+                    "decimal": "0.47",
+                    "text": "28 mins",
+                    "hours": 0,
+                    "minutes": 28,
+                    "seconds": 0,
+                    "percent": 3.38
+                },
+                {
+                    "name": "Zed",
+                    "total_seconds": 750.76,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [],
+                    "ai_model_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "0:12:30",
+                    "decimal": "0.20",
+                    "text": "12 mins",
+                    "hours": 0,
+                    "minutes": 12,
+                    "seconds": 30,
+                    "percent": 1.51
+                },
+                {
+                    "name": "Opencode Cli",
+                    "total_seconds": 638.641,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 102073,
+                    "ai_output_tokens": 11554,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "ai_model_costs": {
+                        "GPT": 0.856985
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "GPT",
+                            "lines": 0,
+                            "cost": 0.856985
+                        }
+                    ],
+                    "ai_model_total_cost": 0.856985,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 1,
+                    "digital": "0:10:38",
+                    "decimal": "0.17",
+                    "text": "10 mins",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 38,
+                    "percent": 1.28
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Unknown OS",
+                    "total_seconds": 38915.546338,
+                    "digital": "10:48:35",
+                    "decimal": "10.80",
+                    "text": "10 hrs 48 mins",
+                    "hours": 10,
+                    "minutes": 48,
+                    "seconds": 35,
+                    "percent": 78.27
+                },
+                {
+                    "name": "Linux",
+                    "total_seconds": 10801.479662,
+                    "digital": "3:00:01",
+                    "decimal": "3.00",
+                    "text": "3 hrs",
+                    "hours": 3,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 21.73
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Browsing",
+                    "total_seconds": 38915.546338,
+                    "digital": "10:48:35",
+                    "decimal": "10.80",
+                    "text": "10 hrs 48 mins",
+                    "hours": 10,
+                    "minutes": 48,
+                    "seconds": 35,
+                    "percent": 78.27
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 9232.633,
+                    "digital": "2:33:52",
+                    "decimal": "2.55",
+                    "text": "2 hrs 33 mins",
+                    "hours": 2,
+                    "minutes": 33,
+                    "seconds": 52,
+                    "percent": 18.57
+                },
+                {
+                    "name": "Coding",
+                    "total_seconds": 1409.930416,
+                    "digital": "0:23:29",
+                    "decimal": "0.38",
+                    "text": "23 mins",
+                    "hours": 0,
+                    "minutes": 23,
+                    "seconds": 29,
+                    "percent": 2.84
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 158.916246,
+                    "digital": "0:02:38",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 38,
+                    "percent": 0.32
+                }
+            ]
+        }
+    ],
+    "start": "2026-07-26T00:00:00Z",
+    "end": "2026-07-26T23:59:59Z",
+    "cumulative_total": {
+        "seconds": 49717.026,
+        "text": "13 hrs 48 mins",
+        "digital": "13:48",
+        "decimal": "13.80"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 7421,
+        "seconds_including_other_language": 49717,
+        "text": "2 hrs 3 mins",
+        "text_including_other_language": "13 hrs 48 mins"
+    }
+}
