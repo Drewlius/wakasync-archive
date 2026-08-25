@@ -1,7 +1,12 @@
+<div align=center>
+    
 # wakasync
-## Fork FROM THE TEMPLATE BRANCH
-Daily archival of WakaTime data via GitHub Actions. WakaTime's free plan retains only 7 days of data — this action fetches and commits it daily so nothing is lost.
+## FORK FROM THE TEMPLATE BRANCH
 
+</div algin=center>
+
+Daily archival of WakaTime data via GitHub Actions. WakaTime's free plan retains only 7 days of data — this action fetches and commits it daily so nothing is lost.
+    
 ## Why?
 
 WakaTime's free tier only keeps 7 days of history. wakasync archives your stats daily to a GitHub repo, giving you:
