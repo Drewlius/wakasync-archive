@@ -1,0 +1,859 @@
+{
+    "data": {
+        "id": "7b7066e6-7598-4f6d-b40a-07d75c621142",
+        "user_id": "2a7a60c6-848c-456f-b2fc-0206876e36ab",
+        "range": "last_7_days",
+        "start": "2026-08-23T00:00:00Z",
+        "end": "2026-08-29T23:59:59Z",
+        "timeout": 15,
+        "writes_only": false,
+        "timezone": "UTC",
+        "ai_additions": 492,
+        "ai_deletions": 12,
+        "human_additions": 61,
+        "human_deletions": 52,
+        "ai_model_line_changes": {
+            "Opencode-Cli": 497
+        },
+        "ai_line_changes_total": 497,
+        "ai_model_costs": {
+            "Opencode-Cli": 59.261469,
+            "Github-Copilot": 0.022044,
+            "Nemotron": 0.36138
+        },
+        "ai_model_total_cost": 59.644893,
+        "ai_input_tokens": 1498530,
+        "ai_cached_input_tokens": 17726976,
+        "ai_output_tokens": 244668,
+        "ai_prompt_length_sum": 184228,
+        "ai_prompt_length_avg": 1196,
+        "ai_prompt_events_total": 154,
+        "ai_prompt_events_avg_per_session": 8,
+        "ai_prompt_events_median_per_session": 6,
+        "ai_prompt_length_avg_per_session": 1802,
+        "ai_prompt_length_median_per_session": 1352,
+        "ai_sessions": 19,
+        "holidays": 0,
+        "status": "pending_update",
+        "created_at": "2026-08-26T04:05:27Z",
+        "modified_at": "2026-08-30T00:42:19Z",
+        "human_readable_total": "7 hrs 6 mins",
+        "operating_systems": [
+            {
+                "total_seconds": 59779.507154,
+                "name": "Unknown OS",
+                "ai_coding_seconds": 0,
+                "manual_coding_seconds": 0,
+                "percent": 69.62,
+                "digital": "16:36",
+                "decimal": "16.60",
+                "text": "16 hrs 36 mins",
+                "hours": 16,
+                "minutes": 36
+            },
+            {
+                "total_seconds": 26088.484464,
+                "name": "Linux",
+                "ai_coding_seconds": "18329.281597",
+                "manual_coding_seconds": "7759.202867",
+                "percent": 30.38,
+                "digital": "7:14",
+                "decimal": "7.23",
+                "text": "7 hrs 14 mins",
+                "hours": 7,
+                "minutes": 14
+            }
+        ],
+        "total_seconds_including_other_language": 85867.991618,
+        "is_up_to_date_pending_future": false,
+        "projects": [
+            {
+                "total_seconds": 63399.284292,
+                "name": "Unknown Project",
+                "ai_additions": 91,
+                "ai_deletions": 0,
+                "human_additions": 15,
+                "human_deletions": 24,
+                "ai_model_line_changes": {
+                    "Opencode-Cli": 84
+                },
+                "ai_model_costs": {},
+                "ai_input_tokens": 0,
+                "ai_cached_input_tokens": 0,
+                "ai_output_tokens": 0,
+                "ai_prompt_length_avg": 0,
+                "ai_prompt_length_avg_per_session": 0,
+                "ai_prompt_length_median_per_session": 0,
+                "ai_prompt_length_sum": 0,
+                "ai_prompt_events_total": 0,
+                "ai_prompt_events_avg_per_session": 0,
+                "ai_prompt_events_median_per_session": 0,
+                "ai_sessions": 1,
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opencode-Cli",
+                        "lines": 84,
+                        "cost": 0.0
+                    }
+                ],
+                "ai_model_total_cost": 0.0,
+                "percent": 73.83,
+                "digital": "17:36",
+                "decimal": "17.60",
+                "text": "17 hrs 36 mins",
+                "hours": 17,
+                "minutes": 36
+            },
+            {
+                "total_seconds": 13477.829699,
+                "name": "slippy",
+                "ai_additions": 214,
+                "ai_deletions": 12,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {
+                    "Opencode-Cli": 226
+                },
+                "ai_model_costs": {
+                    "Opencode-Cli": 50.255124,
+                    "Nemotron": 0.079962
+                },
+                "ai_input_tokens": 1256800,
+                "ai_cached_input_tokens": 15773600,
+                "ai_output_tokens": 210410,
+                "ai_prompt_length_avg": 1155,
+                "ai_prompt_length_avg_per_session": 1922,
+                "ai_prompt_length_median_per_session": 1916,
+                "ai_prompt_length_sum": 129357,
+                "ai_prompt_events_total": 112,
+                "ai_prompt_events_avg_per_session": 9,
+                "ai_prompt_events_median_per_session": 6,
+                "ai_sessions": 13,
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opencode-Cli",
+                        "lines": 226,
+                        "cost": 50.255124
+                    },
+                    {
+                        "name": "Nemotron",
+                        "lines": 0,
+                        "cost": 0.079962
+                    }
+                ],
+                "ai_model_total_cost": 50.335086000000004,
+                "percent": 15.7,
+                "digital": "3:44",
+                "decimal": "3.73",
+                "text": "3 hrs 44 mins",
+                "hours": 3,
+                "minutes": 44
+            },
+            {
+                "total_seconds": 8168.194,
+                "name": "AutoCrypt",
+                "ai_additions": 14,
+                "ai_deletions": 0,
+                "human_additions": 46,
+                "human_deletions": 28,
+                "ai_model_line_changes": {
+                    "Opencode-Cli": 14
+                },
+                "ai_model_costs": {
+                    "Github-Copilot": 0.022044,
+                    "Opencode-Cli": 1.359906,
+                    "Nemotron": 0.281418
+                },
+                "ai_input_tokens": 94434,
+                "ai_cached_input_tokens": 407712,
+                "ai_output_tokens": 10462,
+                "ai_prompt_length_avg": 1021,
+                "ai_prompt_length_avg_per_session": 1448,
+                "ai_prompt_length_median_per_session": 1186,
+                "ai_prompt_length_sum": 35720,
+                "ai_prompt_events_total": 35,
+                "ai_prompt_events_avg_per_session": 6,
+                "ai_prompt_events_median_per_session": 4,
+                "ai_sessions": 6,
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opencode-Cli",
+                        "lines": 14,
+                        "cost": 1.359906
+                    },
+                    {
+                        "name": "Nemotron",
+                        "lines": 0,
+                        "cost": 0.281418
+                    },
+                    {
+                        "name": "Github-Copilot",
+                        "lines": 0,
+                        "cost": 0.022044
+                    }
+                ],
+                "ai_model_total_cost": 1.663368,
+                "percent": 9.51,
+                "digital": "2:16",
+                "decimal": "2.27",
+                "text": "2 hrs 16 mins",
+                "hours": 2,
+                "minutes": 16
+            },
+            {
+                "total_seconds": 425.16757,
+                "name": "oc-supermemory-redux",
+                "ai_additions": 3,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {
+                    "Opencode-Cli": 3
+                },
+                "ai_model_costs": {
+                    "Opencode-Cli": 4.142769
+                },
+                "ai_input_tokens": 108556,
+                "ai_cached_input_tokens": 1196672,
+                "ai_output_tokens": 15139,
+                "ai_prompt_length_avg": 1788,
+                "ai_prompt_length_avg_per_session": 2154,
+                "ai_prompt_length_median_per_session": 2154,
+                "ai_prompt_length_sum": 12513,
+                "ai_prompt_events_total": 7,
+                "ai_prompt_events_avg_per_session": 4,
+                "ai_prompt_events_median_per_session": 4,
+                "ai_sessions": 2,
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opencode-Cli",
+                        "lines": 3,
+                        "cost": 4.142769
+                    }
+                ],
+                "ai_model_total_cost": 4.142769,
+                "percent": 0.5,
+                "digital": "0:07",
+                "decimal": "0.12",
+                "text": "7 mins",
+                "hours": 0,
+                "minutes": 7
+            },
+            {
+                "total_seconds": 397.516057,
+                "name": "Obsidian",
+                "ai_additions": 170,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {
+                    "Opencode-Cli": 170
+                },
+                "ai_model_costs": {
+                    "Opencode-Cli": 1.482249
+                },
+                "ai_input_tokens": 89267,
+                "ai_cached_input_tokens": 360256,
+                "ai_output_tokens": 8912,
+                "ai_prompt_length_avg": 3644,
+                "ai_prompt_length_avg_per_session": 2450,
+                "ai_prompt_length_median_per_session": 2221,
+                "ai_prompt_length_sum": 10933,
+                "ai_prompt_events_total": 3,
+                "ai_prompt_events_avg_per_session": 2,
+                "ai_prompt_events_median_per_session": 2,
+                "ai_sessions": 2,
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opencode-Cli",
+                        "lines": 170,
+                        "cost": 1.482249
+                    }
+                ],
+                "ai_model_total_cost": 1.482249,
+                "percent": 0.46,
+                "digital": "0:06",
+                "decimal": "0.10",
+                "text": "6 mins",
+                "hours": 0,
+                "minutes": 6
+            }
+        ],
+        "dependencies": [
+            {
+                "total_seconds": 7729.327212,
+                "name": "subprocess",
+                "percent": 38.47,
+                "digital": "2:08",
+                "decimal": "2.13",
+                "text": "2 hrs 8 mins",
+                "hours": 2,
+                "minutes": 8
+            },
+            {
+                "total_seconds": 4532.779174,
+                "name": "json",
+                "percent": 22.56,
+                "digital": "1:15",
+                "decimal": "1.25",
+                "text": "1 hr 15 mins",
+                "hours": 1,
+                "minutes": 15
+            },
+            {
+                "total_seconds": 4181.471174,
+                "name": "platform",
+                "percent": 20.81,
+                "digital": "1:09",
+                "decimal": "1.15",
+                "text": "1 hr 9 mins",
+                "hours": 1,
+                "minutes": 9
+            },
+            {
+                "total_seconds": 1945.689393,
+                "name": "index",
+                "percent": 9.68,
+                "digital": "0:32",
+                "decimal": "0.53",
+                "text": "32 mins",
+                "hours": 0,
+                "minutes": 32
+            },
+            {
+                "total_seconds": 425.16757,
+                "name": "config",
+                "percent": 2.12,
+                "digital": "0:07",
+                "decimal": "0.12",
+                "text": "7 mins",
+                "hours": 0,
+                "minutes": 7
+            },
+            {
+                "total_seconds": 425.16757,
+                "name": "sdk",
+                "percent": 2.12,
+                "digital": "0:07",
+                "decimal": "0.12",
+                "text": "7 mins",
+                "hours": 0,
+                "minutes": 7
+            },
+            {
+                "total_seconds": 425.16757,
+                "name": "supermemory",
+                "percent": 2.12,
+                "digital": "0:07",
+                "decimal": "0.12",
+                "text": "7 mins",
+                "hours": 0,
+                "minutes": 7
+            },
+            {
+                "total_seconds": 425.16757,
+                "name": "plugin",
+                "percent": 2.12,
+                "digital": "0:07",
+                "decimal": "0.12",
+                "text": "7 mins",
+                "hours": 0,
+                "minutes": 7
+            }
+        ],
+        "days_including_holidays": 7,
+        "daily_average": 3657.0,
+        "human_readable_daily_average": "1 hr",
+        "categories": [
+            {
+                "name": "Browsing",
+                "total_seconds": 59779.507154,
+                "percent": 69.62,
+                "digital": "16:36",
+                "decimal": "16.60",
+                "text": "16 hrs 36 mins",
+                "hours": 16,
+                "minutes": 36
+            },
+            {
+                "name": "AI Coding",
+                "total_seconds": 18329.281597,
+                "percent": 21.35,
+                "digital": "5:05",
+                "decimal": "5.08",
+                "text": "5 hrs 5 mins",
+                "hours": 5,
+                "minutes": 5
+            },
+            {
+                "name": "Coding",
+                "total_seconds": 7532.082649,
+                "percent": 8.77,
+                "digital": "2:05",
+                "decimal": "2.08",
+                "text": "2 hrs 5 mins",
+                "hours": 2,
+                "minutes": 5
+            },
+            {
+                "name": "Writing Docs",
+                "total_seconds": 227.120218,
+                "percent": 0.26,
+                "digital": "0:03",
+                "decimal": "0.05",
+                "text": "3 mins",
+                "hours": 0,
+                "minutes": 3
+            }
+        ],
+        "human_readable_daily_average_including_other_language": "3 hrs 24 mins",
+        "machines": [
+            {
+                "total_seconds": 59779.507154,
+                "name": "Unknown Hostname",
+                "machine_name_id": null,
+                "percent": 69.62,
+                "digital": "16:36",
+                "decimal": "16.60",
+                "text": "16 hrs 36 mins",
+                "hours": 16,
+                "minutes": 36
+            },
+            {
+                "total_seconds": 26088.484464,
+                "name": "Mokka",
+                "machine_name_id": "de2d60d7-d0f7-4940-add8-22f8c3ff56a4",
+                "percent": 30.38,
+                "digital": "7:14",
+                "decimal": "7.23",
+                "text": "7 hrs 14 mins",
+                "hours": 7,
+                "minutes": 14
+            }
+        ],
+        "ai_model_breakdown": [
+            {
+                "name": "Opencode-Cli",
+                "lines": 497,
+                "cost": 59.261469
+            },
+            {
+                "name": "Nemotron",
+                "lines": 0,
+                "cost": 0.36138
+            },
+            {
+                "name": "Github-Copilot",
+                "lines": 0,
+                "cost": 0.022044
+            }
+        ],
+        "daily_average_including_other_language": 12267.0,
+        "is_up_to_date": true,
+        "human_readable_total_including_other_language": "23 hrs 51 mins",
+        "is_stuck": false,
+        "languages": [
+            {
+                "name": "Other",
+                "total_seconds": 60267.866154,
+                "ai_coding_seconds": "488.359000",
+                "manual_coding_seconds": "0.000000",
+                "percent": 70.19,
+                "digital": "16:44",
+                "decimal": "16.73",
+                "text": "16 hrs 44 mins",
+                "hours": 16,
+                "minutes": 44
+            },
+            {
+                "name": "Python",
+                "total_seconds": 8345.626212,
+                "ai_coding_seconds": "2698.860000",
+                "manual_coding_seconds": "5646.766212",
+                "percent": 9.72,
+                "digital": "2:19",
+                "decimal": "2.32",
+                "text": "2 hrs 19 mins",
+                "hours": 2,
+                "minutes": 19
+            },
+            {
+                "name": "JSON",
+                "total_seconds": 5412.631,
+                "ai_coding_seconds": "5378.673000",
+                "manual_coding_seconds": "33.958000",
+                "percent": 6.3,
+                "digital": "1:30",
+                "decimal": "1.50",
+                "text": "1 hr 30 mins",
+                "hours": 1,
+                "minutes": 30
+            },
+            {
+                "name": "Markdown",
+                "total_seconds": 3288.593063,
+                "ai_coding_seconds": "3061.472845",
+                "manual_coding_seconds": "227.120218",
+                "percent": 3.83,
+                "digital": "0:54",
+                "decimal": "0.90",
+                "text": "54 mins",
+                "hours": 0,
+                "minutes": 54
+            },
+            {
+                "name": "reg",
+                "total_seconds": 2014.395,
+                "ai_coding_seconds": "2014.395000",
+                "manual_coding_seconds": "0.000000",
+                "percent": 2.35,
+                "digital": "0:33",
+                "decimal": "0.55",
+                "text": "33 mins",
+                "hours": 0,
+                "minutes": 33
+            },
+            {
+                "name": "JavaScript",
+                "total_seconds": 1945.689393,
+                "ai_coding_seconds": "1945.689393",
+                "manual_coding_seconds": "0.000000",
+                "percent": 2.27,
+                "digital": "0:32",
+                "decimal": "0.53",
+                "text": "32 mins",
+                "hours": 0,
+                "minutes": 32
+            },
+            {
+                "name": "JSONC",
+                "total_seconds": 1711.532386,
+                "ai_coding_seconds": "741.413495",
+                "manual_coding_seconds": "970.118891",
+                "percent": 1.99,
+                "digital": "0:28",
+                "decimal": "0.47",
+                "text": "28 mins",
+                "hours": 0,
+                "minutes": 28
+            },
+            {
+                "name": "INI",
+                "total_seconds": 789.836,
+                "ai_coding_seconds": "789.836000",
+                "manual_coding_seconds": "0.000000",
+                "percent": 0.92,
+                "digital": "0:13",
+                "decimal": "0.22",
+                "text": "13 mins",
+                "hours": 0,
+                "minutes": 13
+            },
+            {
+                "name": "Normal",
+                "total_seconds": 513.677994,
+                "ai_coding_seconds": "2.782294",
+                "manual_coding_seconds": "510.895700",
+                "percent": 0.6,
+                "digital": "0:08",
+                "decimal": "0.13",
+                "text": "8 mins",
+                "hours": 0,
+                "minutes": 8
+            },
+            {
+                "name": "TypeScript",
+                "total_seconds": 425.16757,
+                "ai_coding_seconds": "425.167570",
+                "manual_coding_seconds": "0.000000",
+                "percent": 0.5,
+                "digital": "0:07",
+                "decimal": "0.12",
+                "text": "7 mins",
+                "hours": 0,
+                "minutes": 7
+            },
+            {
+                "name": "INI Files",
+                "total_seconds": 357.431846,
+                "ai_coding_seconds": "0.000000",
+                "manual_coding_seconds": "357.431846",
+                "percent": 0.42,
+                "digital": "0:05",
+                "decimal": "0.08",
+                "text": "5 mins",
+                "hours": 0,
+                "minutes": 5
+            },
+            {
+                "name": "Desktop file",
+                "total_seconds": 344.75,
+                "ai_coding_seconds": "344.750000",
+                "manual_coding_seconds": "0.000000",
+                "percent": 0.4,
+                "digital": "0:05",
+                "decimal": "0.08",
+                "text": "5 mins",
+                "hours": 0,
+                "minutes": 5
+            },
+            {
+                "name": "Bash",
+                "total_seconds": 271.525,
+                "ai_coding_seconds": "271.525000",
+                "manual_coding_seconds": "0.000000",
+                "percent": 0.32,
+                "digital": "0:04",
+                "decimal": "0.07",
+                "text": "4 mins",
+                "hours": 0,
+                "minutes": 4
+            },
+            {
+                "name": "Valve Data Format",
+                "total_seconds": 166.358,
+                "ai_coding_seconds": "166.358000",
+                "manual_coding_seconds": "0.000000",
+                "percent": 0.19,
+                "digital": "0:02",
+                "decimal": "0.03",
+                "text": "2 mins",
+                "hours": 0,
+                "minutes": 2
+            },
+            {
+                "name": "Git",
+                "total_seconds": 12.912,
+                "ai_coding_seconds": "0.000000",
+                "manual_coding_seconds": "12.912000",
+                "percent": 0.02,
+                "digital": "0:00",
+                "decimal": "0.00",
+                "text": "0 secs",
+                "hours": 0,
+                "minutes": 0
+            }
+        ],
+        "days_minus_holidays": 7,
+        "best_day": {
+            "date": "2026-08-28",
+            "total_seconds": 21881.048,
+            "text": "6 hrs 4 mins"
+        },
+        "editors": [
+            {
+                "total_seconds": 59779.507154,
+                "name": "Histre",
+                "ai_coding_seconds": 0,
+                "manual_coding_seconds": 0,
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {},
+                "ai_model_costs": {},
+                "ai_input_tokens": 0,
+                "ai_cached_input_tokens": 0,
+                "ai_output_tokens": 0,
+                "ai_prompt_length_avg": 0,
+                "ai_prompt_length_avg_per_session": 0,
+                "ai_prompt_length_median_per_session": 0,
+                "ai_prompt_length_sum": 0,
+                "ai_prompt_events_total": 0,
+                "ai_prompt_events_avg_per_session": 0,
+                "ai_prompt_events_median_per_session": 0,
+                "ai_sessions": 0,
+                "ai_model_breakdown": [],
+                "ai_model_total_cost": 0,
+                "percent": 69.62,
+                "digital": "16:36",
+                "decimal": "16.60",
+                "text": "16 hrs 36 mins",
+                "hours": 16,
+                "minutes": 36
+            },
+            {
+                "total_seconds": 12602.051026,
+                "name": "VS Code",
+                "ai_coding_seconds": "6908.414814",
+                "manual_coding_seconds": "5693.636212",
+                "ai_additions": 190,
+                "ai_deletions": 0,
+                "human_additions": 46,
+                "human_deletions": 42,
+                "ai_model_line_changes": {
+                    "Opencode-Cli": 190
+                },
+                "ai_model_costs": {
+                    "Opencode-Cli": 18.207036,
+                    "Github-Copilot": 0.022044,
+                    "Nemotron": 0.321021
+                },
+                "ai_input_tokens": 1076328,
+                "ai_cached_input_tokens": 4792064,
+                "ai_output_tokens": 62995,
+                "ai_prompt_length_avg": 1142,
+                "ai_prompt_length_avg_per_session": 1789,
+                "ai_prompt_length_median_per_session": 1892,
+                "ai_prompt_length_sum": 90179,
+                "ai_prompt_events_total": 79,
+                "ai_prompt_events_avg_per_session": 6,
+                "ai_prompt_events_median_per_session": 6,
+                "ai_sessions": 14,
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opencode-Cli",
+                        "lines": 190,
+                        "cost": 18.207036
+                    },
+                    {
+                        "name": "Nemotron",
+                        "lines": 0,
+                        "cost": 0.321021
+                    },
+                    {
+                        "name": "Github-Copilot",
+                        "lines": 0,
+                        "cost": 0.022044
+                    }
+                ],
+                "ai_model_total_cost": 18.550100999999998,
+                "percent": 14.68,
+                "digital": "3:30",
+                "decimal": "3.50",
+                "text": "3 hrs 30 mins",
+                "hours": 3,
+                "minutes": 30
+            },
+            {
+                "total_seconds": 10676.670994,
+                "name": "OpenCode",
+                "ai_coding_seconds": "10676.670994",
+                "manual_coding_seconds": 0,
+                "ai_additions": 302,
+                "ai_deletions": 12,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {
+                    "Opencode-Cli": 307
+                },
+                "ai_model_costs": {
+                    "Opencode-Cli": 40.459695,
+                    "Nemotron": 0.040359
+                },
+                "ai_input_tokens": 1028939,
+                "ai_cached_input_tokens": 12858432,
+                "ai_output_tokens": 183347,
+                "ai_prompt_length_avg": 1261,
+                "ai_prompt_length_avg_per_session": 1417,
+                "ai_prompt_length_median_per_session": 1393,
+                "ai_prompt_length_sum": 98344,
+                "ai_prompt_events_total": 78,
+                "ai_prompt_events_avg_per_session": 8,
+                "ai_prompt_events_median_per_session": 10,
+                "ai_sessions": 10,
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opencode-Cli",
+                        "lines": 307,
+                        "cost": 40.459695
+                    },
+                    {
+                        "name": "Nemotron",
+                        "lines": 0,
+                        "cost": 0.040359
+                    }
+                ],
+                "ai_model_total_cost": 40.500054000000006,
+                "percent": 12.43,
+                "digital": "2:57",
+                "decimal": "2.95",
+                "text": "2 hrs 57 mins",
+                "hours": 2,
+                "minutes": 57
+            },
+            {
+                "total_seconds": 2582.642226,
+                "name": "Ktexteditor",
+                "ai_coding_seconds": "744.195789",
+                "manual_coding_seconds": "1838.446437",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 15,
+                "human_deletions": 10,
+                "ai_model_line_changes": {},
+                "ai_model_costs": {},
+                "ai_input_tokens": 0,
+                "ai_cached_input_tokens": 0,
+                "ai_output_tokens": 0,
+                "ai_prompt_length_avg": 0,
+                "ai_prompt_length_avg_per_session": 0,
+                "ai_prompt_length_median_per_session": 0,
+                "ai_prompt_length_sum": 0,
+                "ai_prompt_events_total": 0,
+                "ai_prompt_events_avg_per_session": 0,
+                "ai_prompt_events_median_per_session": 0,
+                "ai_sessions": 0,
+                "ai_model_breakdown": [],
+                "ai_model_total_cost": 0,
+                "percent": 3.01,
+                "digital": "0:43",
+                "decimal": "0.72",
+                "text": "43 mins",
+                "hours": 0,
+                "minutes": 43
+            },
+            {
+                "total_seconds": 227.120218,
+                "name": "Obsidian",
+                "ai_coding_seconds": 0,
+                "manual_coding_seconds": "227.120218",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {},
+                "ai_model_costs": {
+                    "Opencode-Cli": 0.594738
+                },
+                "ai_input_tokens": 1227,
+                "ai_cached_input_tokens": 196224,
+                "ai_output_tokens": 159,
+                "ai_prompt_length_avg": 0,
+                "ai_prompt_length_avg_per_session": 0,
+                "ai_prompt_length_median_per_session": 0,
+                "ai_prompt_length_sum": 0,
+                "ai_prompt_events_total": 0,
+                "ai_prompt_events_avg_per_session": 0,
+                "ai_prompt_events_median_per_session": 0,
+                "ai_sessions": 1,
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opencode-Cli",
+                        "lines": 0,
+                        "cost": 0.594738
+                    }
+                ],
+                "ai_model_total_cost": 0.594738,
+                "percent": 0.26,
+                "digital": "0:03",
+                "decimal": "0.05",
+                "text": "3 mins",
+                "hours": 0,
+                "minutes": 3
+            }
+        ],
+        "is_already_updating": false,
+        "total_seconds": 25600.125464,
+        "percent_calculated": 100,
+        "is_cached": true,
+        "username": "Drewlius",
+        "is_including_today": false,
+        "human_readable_range": "last week",
+        "is_coding_activity_visible": true,
+        "is_language_usage_visible": true,
+        "is_editor_usage_visible": true,
+        "is_category_usage_visible": false,
+        "is_os_usage_visible": true
+    }
+}
