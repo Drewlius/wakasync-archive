@@ -1,0 +1,417 @@
+{
+    "data": [
+        {
+            "grand_total": {
+                "hours": 1,
+                "minutes": 55,
+                "total_seconds": 6955.415,
+                "digital": "1:55",
+                "decimal": "1.92",
+                "text": "1 hr 55 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {},
+                "ai_input_tokens": 46515,
+                "ai_cached_input_tokens": 0,
+                "ai_output_tokens": 1875,
+                "ai_prompt_length_sum": 13196,
+                "ai_prompt_events_total": 38,
+                "ai_sessions": 3,
+                "ai_model_costs": {
+                    "Gemini": 0.11553
+                },
+                "ai_model_breakdown": [
+                    {
+                        "name": "Gemini",
+                        "lines": 0,
+                        "cost": 0.11553,
+                        "input_tokens": 46515,
+                        "output_tokens": 1875,
+                        "cached_input_tokens": 0
+                    },
+                    {
+                        "name": "Mozilla",
+                        "lines": 0,
+                        "cost": 0.0,
+                        "input_tokens": 0,
+                        "output_tokens": 0,
+                        "cached_input_tokens": 0
+                    }
+                ],
+                "ai_model_total_cost": 0.11553,
+                "ai_prompt_length_avg": 347,
+                "ai_prompt_events_avg_per_session": 13,
+                "ai_prompt_events_median_per_session": 2,
+                "ai_prompt_length_avg_per_session": 775,
+                "ai_prompt_length_median_per_session": 1029
+            },
+            "range": {
+                "start": "2026-10-16T00:00:00Z",
+                "end": "2026-10-16T23:59:59Z",
+                "date": "2026-10-16",
+                "text": "Fri Oct 16th 2026",
+                "timezone": "UTC"
+            },
+            "projects": [
+                {
+                    "name": "scratch",
+                    "total_seconds": 3822.0,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 9080,
+                    "ai_prompt_events_total": 34,
+                    "color": null,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.0,
+                    "ai_prompt_length_avg": 267,
+                    "ai_prompt_length_avg_per_session": 267,
+                    "ai_prompt_length_median_per_session": 267,
+                    "ai_prompt_events_avg_per_session": 34,
+                    "ai_prompt_events_median_per_session": 34,
+                    "ai_sessions": 1,
+                    "digital": "1:03:42",
+                    "decimal": "1.05",
+                    "text": "1 hr 3 mins",
+                    "hours": 1,
+                    "minutes": 3,
+                    "seconds": 42,
+                    "percent": 54.95
+                },
+                {
+                    "name": "Drewlius",
+                    "total_seconds": 1807.715,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 2058,
+                    "ai_prompt_events_total": 2,
+                    "color": null,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Mozilla",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.0,
+                    "ai_prompt_length_avg": 1029,
+                    "ai_prompt_length_avg_per_session": 1029,
+                    "ai_prompt_length_median_per_session": 1029,
+                    "ai_prompt_events_avg_per_session": 1,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 2,
+                    "digital": "0:30:07",
+                    "decimal": "0.50",
+                    "text": "30 mins",
+                    "hours": 0,
+                    "minutes": 30,
+                    "seconds": 7,
+                    "percent": 25.99
+                },
+                {
+                    "name": "OpenCode",
+                    "total_seconds": 848.7,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "color": null,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Mozilla",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "0:14:08",
+                    "decimal": "0.23",
+                    "text": "14 mins",
+                    "hours": 0,
+                    "minutes": 14,
+                    "seconds": 8,
+                    "percent": 12.2
+                },
+                {
+                    "name": "antigravity-cli-wakatime",
+                    "total_seconds": 477.0,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 46515,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 1875,
+                    "ai_prompt_length_sum": 2058,
+                    "ai_prompt_events_total": 2,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Gemini": 0.11553
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 0,
+                            "cost": 0.11553,
+                            "input_tokens": 46515,
+                            "output_tokens": 1875,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.11553,
+                    "ai_prompt_length_avg": 1029,
+                    "ai_prompt_length_avg_per_session": 1029,
+                    "ai_prompt_length_median_per_session": 1029,
+                    "ai_prompt_events_avg_per_session": 1,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 2,
+                    "digital": "0:07:57",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 57,
+                    "percent": 6.86
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Other",
+                    "total_seconds": 6955.415,
+                    "digital": "1:55:55",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 55,
+                    "percent": 100.0
+                }
+            ],
+            "dependencies": [],
+            "machines": [
+                {
+                    "name": "Mokka",
+                    "total_seconds": 6955.415,
+                    "machine_name_id": "902e21ac-9a68-4fa9-8980-f78aa3152743",
+                    "digital": "1:55:55",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 55,
+                    "percent": 100.0
+                }
+            ],
+            "editors": [
+                {
+                    "name": "Antigravity Desktop",
+                    "total_seconds": 4298.763646,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 46515,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 1875,
+                    "ai_prompt_length_sum": 9080,
+                    "ai_prompt_events_total": 34,
+                    "ai_model_costs": {
+                        "Gemini": 0.11553
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 0,
+                            "cost": 0.11553,
+                            "input_tokens": 46515,
+                            "output_tokens": 1875,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.11553,
+                    "ai_prompt_length_avg": 267,
+                    "ai_prompt_length_avg_per_session": 267,
+                    "ai_prompt_length_median_per_session": 267,
+                    "ai_prompt_events_avg_per_session": 11,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 3,
+                    "digital": "1:11:38",
+                    "decimal": "1.18",
+                    "text": "1 hr 11 mins",
+                    "hours": 1,
+                    "minutes": 11,
+                    "seconds": 38,
+                    "percent": 61.8
+                },
+                {
+                    "name": "Chrome",
+                    "total_seconds": 2518.415,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Mozilla",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "0:41:58",
+                    "decimal": "0.68",
+                    "text": "41 mins",
+                    "hours": 0,
+                    "minutes": 41,
+                    "seconds": 58,
+                    "percent": 36.21
+                },
+                {
+                    "name": "Antigravity",
+                    "total_seconds": 138.236354,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 4116,
+                    "ai_prompt_events_total": 4,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [],
+                    "ai_model_total_cost": 0,
+                    "ai_prompt_length_avg": 1029,
+                    "ai_prompt_length_avg_per_session": 1029,
+                    "ai_prompt_length_median_per_session": 1029,
+                    "ai_prompt_events_avg_per_session": 2,
+                    "ai_prompt_events_median_per_session": 2,
+                    "ai_sessions": 2,
+                    "digital": "0:02:18",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 18,
+                    "percent": 1.99
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Linux",
+                    "total_seconds": 6955.415,
+                    "digital": "1:55:55",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 55,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 4437.0,
+                    "digital": "1:13:57",
+                    "decimal": "1.22",
+                    "text": "1 hr 13 mins",
+                    "hours": 1,
+                    "minutes": 13,
+                    "seconds": 57,
+                    "percent": 63.79
+                },
+                {
+                    "name": "Browsing",
+                    "total_seconds": 2518.415,
+                    "digital": "0:41:58",
+                    "decimal": "0.68",
+                    "text": "41 mins",
+                    "hours": 0,
+                    "minutes": 41,
+                    "seconds": 58,
+                    "percent": 36.21
+                }
+            ]
+        }
+    ],
+    "start": "2026-10-16T00:00:00Z",
+    "end": "2026-10-16T23:59:59Z",
+    "cumulative_total": {
+        "seconds": 6955.415,
+        "text": "1 hr 55 mins",
+        "digital": "1:55",
+        "decimal": "1.92"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 0,
+        "seconds_including_other_language": 6955,
+        "text": "0 secs",
+        "text_including_other_language": "1 hr 55 mins"
+    }
+}
