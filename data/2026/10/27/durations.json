@@ -1,0 +1,674 @@
+{
+    "data": [
+        {
+            "time": 1793059200.0,
+            "project": "clear",
+            "ai_input_tokens": 216279,
+            "ai_cached_input_tokens": 3839324,
+            "ai_output_tokens": 44653,
+            "duration": 263.941,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 84,
+                    "cost": 0.62603,
+                    "input_tokens": 216279,
+                    "output_tokens": 44653,
+                    "cached_input_tokens": 3839324
+                }
+            ],
+            "ai_additions": 84,
+            "ai_model_line_changes": {
+                "Qwen": 84
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.62603
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059463.941,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 9.038,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 38,
+            "ai_model_line_changes": {
+                "Qwen": 38
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059472.979,
+            "project": "clear",
+            "ai_input_tokens": 13992,
+            "ai_cached_input_tokens": 2086306,
+            "ai_output_tokens": 9708,
+            "duration": 40.534,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 76,
+                    "cost": 0.244752,
+                    "input_tokens": 13992,
+                    "output_tokens": 9708,
+                    "cached_input_tokens": 2086306
+                }
+            ],
+            "ai_additions": 76,
+            "ai_model_line_changes": {
+                "Qwen": 76
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.244752
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059513.513,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 1,
+            "ai_model_line_changes": {
+                "Qwen": 1
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059513.513,
+            "project": "clear",
+            "ai_input_tokens": 9390,
+            "ai_cached_input_tokens": 2485124,
+            "ai_output_tokens": 6294,
+            "duration": 41.442,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 31,
+                    "cost": 0.27209,
+                    "input_tokens": 9390,
+                    "output_tokens": 6294,
+                    "cached_input_tokens": 2485124
+                }
+            ],
+            "ai_additions": 25,
+            "ai_model_line_changes": {
+                "Qwen": 31
+            },
+            "ai_deletions": 6,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.27209
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059554.955,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 4,
+            "ai_model_line_changes": {
+                "Qwen": 4
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059554.955,
+            "project": "clear",
+            "ai_input_tokens": 7568,
+            "ai_cached_input_tokens": 1585488,
+            "ai_output_tokens": 6176,
+            "duration": 35.405,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 8,
+                    "cost": 0.180862,
+                    "input_tokens": 7568,
+                    "output_tokens": 6176,
+                    "cached_input_tokens": 1585488
+                }
+            ],
+            "ai_additions": 8,
+            "ai_model_line_changes": {
+                "Qwen": 8
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.180862
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059590.36,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059590.36,
+            "project": "clear",
+            "ai_input_tokens": 2558,
+            "ai_cached_input_tokens": 970274,
+            "ai_output_tokens": 3094,
+            "duration": 14.259,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 76,
+                    "cost": 0.107588,
+                    "input_tokens": 2558,
+                    "output_tokens": 3094,
+                    "cached_input_tokens": 970274
+                }
+            ],
+            "ai_additions": 76,
+            "ai_model_line_changes": {
+                "Qwen": 76
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.107588
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059604.619,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 1,
+            "ai_model_line_changes": {
+                "Qwen": 1
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059604.619,
+            "project": "clear",
+            "ai_input_tokens": 18966,
+            "ai_cached_input_tokens": 4689372,
+            "ai_output_tokens": 13176,
+            "duration": 75.774,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 49,
+                    "cost": 0.517948,
+                    "input_tokens": 18966,
+                    "output_tokens": 13176,
+                    "cached_input_tokens": 4689372
+                }
+            ],
+            "ai_additions": 47,
+            "ai_model_line_changes": {
+                "Qwen": 49
+            },
+            "ai_deletions": 2,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.517948
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059680.393,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 5,
+            "ai_model_line_changes": {
+                "Qwen": 5
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059680.393,
+            "project": "clear",
+            "ai_input_tokens": 8074,
+            "ai_cached_input_tokens": 2779540,
+            "ai_output_tokens": 7220,
+            "duration": 42.247,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 27,
+                    "cost": 0.303652,
+                    "input_tokens": 8074,
+                    "output_tokens": 7220,
+                    "cached_input_tokens": 2779540
+                }
+            ],
+            "ai_additions": 27,
+            "ai_model_line_changes": {
+                "Qwen": 27
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.303652
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059722.64,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 1,
+            "ai_model_line_changes": {
+                "Qwen": 1
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059722.64,
+            "project": "clear",
+            "ai_input_tokens": 78538,
+            "ai_cached_input_tokens": 3783640,
+            "ai_output_tokens": 9974,
+            "duration": 167.896,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 20,
+                    "cost": 0.447554,
+                    "input_tokens": 78538,
+                    "output_tokens": 9974,
+                    "cached_input_tokens": 3783640
+                }
+            ],
+            "ai_additions": 20,
+            "ai_model_line_changes": {
+                "Qwen": 20
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.447554
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059890.536,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 2.818,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 5,
+            "ai_model_line_changes": {
+                "Qwen": 5
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059893.354,
+            "project": "clear",
+            "ai_input_tokens": 13110,
+            "ai_cached_input_tokens": 2215638,
+            "ai_output_tokens": 12738,
+            "duration": 54.4,
+            "ai_model_breakdown": [
+                {
+                    "name": "Qwen",
+                    "lines": 20,
+                    "cost": 0.266334,
+                    "input_tokens": 13110,
+                    "output_tokens": 12738,
+                    "cached_input_tokens": 2215638
+                }
+            ],
+            "ai_additions": 16,
+            "ai_model_line_changes": {
+                "Qwen": 20
+            },
+            "ai_deletions": 4,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Qwen": 0.266334
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059947.754,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.032304,
+            "ai_model_breakdown": [],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 0,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793059947.786304,
+            "project": "clear",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 120.617863,
+            "ai_model_breakdown": [],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 0,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793060068.404167,
+            "project": "Drewlius",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 6.335854,
+            "ai_model_breakdown": [],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 0,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        }
+    ],
+    "start": "2026-10-27T00:00:00Z",
+    "end": "2026-10-27T23:59:59Z",
+    "timezone": "UTC"
+}
